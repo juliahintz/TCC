@@ -1,0 +1,46 @@
+.lados{
+	width:10%;
+	float: left;
+
+}
+#central{
+	width: 80%;
+	float: left;
+}
+
+.divider{
+	clear: both;
+}
+#logo{
+	width: 100%;
+
+}
+.logoimg{
+	width:10%;
+
+}
+#jogos{
+	width: 80%;
+	float: left;
+	
+}
+#categorias{
+	width: 20%;
+	float: left;
+	border: 2px solid #000;
+}
+.texto{
+	float: left;
+	width: 40%;
+}
+
+.textor{
+	float: left;
+	width: 60%;
+	text-align: justify;
+	padding-right: 5%;
+}
+
+.medium .ui .image .texto{
+	float: left;
+}
